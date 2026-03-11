@@ -1,0 +1,4 @@
+name: RevampedTrialChamber
+version: '1.0'
+main: com.test.MyPlugin
+api-version: '1.21'

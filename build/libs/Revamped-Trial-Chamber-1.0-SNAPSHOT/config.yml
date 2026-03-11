@@ -1,0 +1,6 @@
+vault-cooldown-minutes: 30
+spawner-reset-ticks: 600
+health-multiplier-per-player: 0.2
+damage-multiplier-per-player: 0.2
+spawner-waves-increase: true
+hard-mode-multiplier: 1.5

@@ -2,3 +2,5 @@ name: RevampedTrialChamber
 version: '1.0'
 main: com.test.MyPlugin
 api-version: '1.21'
+author: TrshCan
+description: Enhances Trial Chambers with personalized config and scaling.
